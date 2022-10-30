@@ -8,6 +8,6 @@ In our paper, we proposed BEdit-TTS: Text-Based Speech Editing System with Bidi
 
 ## Speech Samples
 
-speech samples are available at [page](https://www.notion.so/Samples-cb3bd2bcb97c42f0bb11c420d72d0ecb).
+Speech samples are available at [page](https://www.notion.so/Samples-cb3bd2bcb97c42f0bb11c420d72d0ecb).
 
 ## Code
