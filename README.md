@@ -20,23 +20,23 @@
 
 ****Original audio****
 
-[auntcretesemancipation_01_hill_0039.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/auntcretesemancipation_01_hill_0039.wav)
+[auntcretesemancipation_01_hill_0039.wav](samples/auntcretesemancipation_01_hill_0039.wav)
 
 **Baseline 1**
 
-[92_auntcretesemancipation_01_hill_0039.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/92_auntcretesemancipation_01_hill_0039.wav)
+[92_auntcretesemancipation_01_hill_0039.wav](samples/92_auntcretesemancipation_01_hill_0039.wav)
 
 **Baseline 2**
 
-[92_auntcretesemancipation_01_hill_0039.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/92_auntcretesemancipation_01_hill_0039%201.wav)
+[92_auntcretesemancipation_01_hill_0039.wav](samples/92_auntcretesemancipation_01_hill_0039%201.wav)
 
 **Baseline 3**
 
-[92_auntcretesemancipation_01_hill_0039.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/92_auntcretesemancipation_01_hill_0039%202.wav)
+[92_auntcretesemancipation_01_hill_0039.wav](samples/92_auntcretesemancipation_01_hill_0039%202.wav)
 
 **BEdit-TTS**
 
-[92_auntcretesemancipation_01_hill_0039.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/92_auntcretesemancipation_01_hill_0039%203.wav)
+[92_auntcretesemancipation_01_hill_0039.wav](samples/92_auntcretesemancipation_01_hill_0039%203.wav)
 
 ### Sample 2
 
@@ -48,23 +48,23 @@
 
 ****original audio****
 
-[astounding_stories06_09_cummings_0058.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/astounding_stories06_09_cummings_0058.wav)
+[astounding_stories06_09_cummings_0058.wav](samples/astounding_stories06_09_cummings_0058.wav)
 
 Baseline 1
 
-[6670_astounding_stories06_09_cummings_0058.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6670_astounding_stories06_09_cummings_0058.wav)
+[6670_astounding_stories06_09_cummings_0058.wav](samples/6670_astounding_stories06_09_cummings_0058.wav)
 
 Baseline 2
 
-[6670_astounding_stories06_09_cummings_0058.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6670_astounding_stories06_09_cummings_0058%201.wav)
+[6670_astounding_stories06_09_cummings_0058.wav](samples/6670_astounding_stories06_09_cummings_0058%201.wav)
 
 Baseline 3
 
-[6670_astounding_stories06_09_cummings_0058.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6670_astounding_stories06_09_cummings_0058%202.wav)
+[6670_astounding_stories06_09_cummings_0058.wav](samples/6670_astounding_stories06_09_cummings_0058%202.wav)
 
 BEdit-TTS
 
-[6670_astounding_stories06_09_cummings_0058.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6670_astounding_stories06_09_cummings_0058%203.wav)
+[6670_astounding_stories06_09_cummings_0058.wav](samples/6670_astounding_stories06_09_cummings_0058%203.wav)
 
 ### Sample 3
 
@@ -76,23 +76,23 @@ BEdit-TTS
 
 ****original audio****
 
-[insearchofmademoiselle_02_gibbs_0019.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/insearchofmademoiselle_02_gibbs_0019.wav)
+[insearchofmademoiselle_02_gibbs_0019.wav](samples/insearchofmademoiselle_02_gibbs_0019.wav)
 
 Baseline 1
 
-[6671_insearchofmademoiselle_02_gibbs_0019.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6671_insearchofmademoiselle_02_gibbs_0019.wav)
+[6671_insearchofmademoiselle_02_gibbs_0019.wav](samples/6671_insearchofmademoiselle_02_gibbs_0019.wav)
 
 Baseline 2
 
-[6671_insearchofmademoiselle_02_gibbs_0019.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6671_insearchofmademoiselle_02_gibbs_0019%201.wav)
+[6671_insearchofmademoiselle_02_gibbs_0019.wav](samples/6671_insearchofmademoiselle_02_gibbs_0019%201.wav)
 
 Baseline 3
 
-[6671_insearchofmademoiselle_02_gibbs_0019.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6671_insearchofmademoiselle_02_gibbs_0019%202.wav)
+[6671_insearchofmademoiselle_02_gibbs_0019.wav](samples/6671_insearchofmademoiselle_02_gibbs_0019%202.wav)
 
 BEdit-TTS
 
-[6671_insearchofmademoiselle_02_gibbs_0019.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6671_insearchofmademoiselle_02_gibbs_0019%203.wav)
+[6671_insearchofmademoiselle_02_gibbs_0019.wav](samples/6671_insearchofmademoiselle_02_gibbs_0019%203.wav)
 
 ### Sample 4
 
@@ -104,23 +104,23 @@ BEdit-TTS
 
 ****original audio****
 
-[barontrump_03_lockwood_0001.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/barontrump_03_lockwood_0001.wav)
+[barontrump_03_lockwood_0001.wav](samples/barontrump_03_lockwood_0001.wav)
 
 Baseline 1
 
-[11614_barontrump_03_lockwood_0001.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/11614_barontrump_03_lockwood_0001.wav)
+[11614_barontrump_03_lockwood_0001.wav](samples/11614_barontrump_03_lockwood_0001.wav)
 
 Baseline 2
 
-[11614_barontrump_03_lockwood_0001.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/11614_barontrump_03_lockwood_0001%201.wav)
+[11614_barontrump_03_lockwood_0001.wav](samples/11614_barontrump_03_lockwood_0001%201.wav)
 
 Baseline 3
 
-[11614_barontrump_03_lockwood_0001.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/11614_barontrump_03_lockwood_0001%202.wav)
+[11614_barontrump_03_lockwood_0001.wav](samples/11614_barontrump_03_lockwood_0001%202.wav)
 
 BEdit-TTS
 
-[11614_barontrump_03_lockwood_0001.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/11614_barontrump_03_lockwood_0001%203.wav)
+[11614_barontrump_03_lockwood_0001.wav](samples/11614_barontrump_03_lockwood_0001%203.wav)
 
 ### Sample 5
 
@@ -132,23 +132,23 @@ BEdit-TTS
 
 ****original audio****
 
-[actressinhighlife_01_bowen_0002.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/actressinhighlife_01_bowen_0002.wav)
+[actressinhighlife_01_bowen_0002.wav](samples/actressinhighlife_01_bowen_0002.wav)
 
 Baseline 1
 
-[11697_actressinhighlife_01_bowen_0002.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/11697_actressinhighlife_01_bowen_0002.wav)
+[11697_actressinhighlife_01_bowen_0002.wav](samples/11697_actressinhighlife_01_bowen_0002.wav)
 
 Baseline 2
 
-[11697_actressinhighlife_01_bowen_0002.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/11697_actressinhighlife_01_bowen_0002%201.wav)
+[11697_actressinhighlife_01_bowen_0002.wav](samples/11697_actressinhighlife_01_bowen_0002%201.wav)
 
 Baseline 3
 
-[11697_actressinhighlife_01_bowen_0002.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/11697_actressinhighlife_01_bowen_0002%202.wav)
+[11697_actressinhighlife_01_bowen_0002.wav](samples/11697_actressinhighlife_01_bowen_0002%202.wav)
 
 BEdit-TTS
 
-[11697_actressinhighlife_01_bowen_0002.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/11697_actressinhighlife_01_bowen_0002%203.wav)
+[11697_actressinhighlife_01_bowen_0002.wav](samples/11697_actressinhighlife_01_bowen_0002%203.wav)
 
 ## Insertion :
 
@@ -162,23 +162,23 @@ BEdit-TTS
 
 ****original audio****
 
-[auntcretesemancipation_01_hill_0029.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/auntcretesemancipation_01_hill_0029.wav)
+[auntcretesemancipation_01_hill_0029.wav](samples/auntcretesemancipation_01_hill_0029.wav)
 
 Baseline 1
 
-[92_auntcretesemancipation_01_hill_0029.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/92_auntcretesemancipation_01_hill_0029.wav)
+[92_auntcretesemancipation_01_hill_0029.wav](samples/92_auntcretesemancipation_01_hill_0029.wav)
 
 Baseline 2
 
-[92_auntcretesemancipation_01_hill_0029.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/92_auntcretesemancipation_01_hill_0029%201.wav)
+[92_auntcretesemancipation_01_hill_0029.wav](samples/92_auntcretesemancipation_01_hill_0029%201.wav)
 
 Baseline 3
 
-[92_auntcretesemancipation_01_hill_0029.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/92_auntcretesemancipation_01_hill_0029%202.wav)
+[92_auntcretesemancipation_01_hill_0029.wav](samples/92_auntcretesemancipation_01_hill_0029%202.wav)
 
 BEdit-TTS
 
-[92_auntcretesemancipation_01_hill_0029.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/92_auntcretesemancipation_01_hill_0029%203.wav)
+[92_auntcretesemancipation_01_hill_0029.wav](samples/92_auntcretesemancipation_01_hill_0029%203.wav)
 
 ### Sample 2
 
@@ -190,23 +190,23 @@ BEdit-TTS
 
 ****original audio****
 
-[auntcretesemancipation_01_hill_0039.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/auntcretesemancipation_01_hill_0039.wav)
+[auntcretesemancipation_01_hill_0039.wav](samples/auntcretesemancipation_01_hill_0039.wav)
 
 Baseline 1
 
-[92_auntcretesemancipation_01_hill_0039.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/92_auntcretesemancipation_01_hill_0039%204.wav)
+[92_auntcretesemancipation_01_hill_0039.wav](samples/92_auntcretesemancipation_01_hill_0039%204.wav)
 
 Baseline 2
 
-[92_auntcretesemancipation_01_hill_0039.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/92_auntcretesemancipation_01_hill_0039%205.wav)
+[92_auntcretesemancipation_01_hill_0039.wav](samples/92_auntcretesemancipation_01_hill_0039%205.wav)
 
 Baseline 3
 
-[92_auntcretesemancipation_01_hill_0039.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/92_auntcretesemancipation_01_hill_0039%206.wav)
+[92_auntcretesemancipation_01_hill_0039.wav](samples/92_auntcretesemancipation_01_hill_0039%206.wav)
 
 BEdit-TTS
 
-[92_auntcretesemancipation_01_hill_0039.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/92_auntcretesemancipation_01_hill_0039%207.wav)
+[92_auntcretesemancipation_01_hill_0039.wav](samples/92_auntcretesemancipation_01_hill_0039%207.wav)
 
 ### Sample 3
 
@@ -218,23 +218,23 @@ BEdit-TTS
 
 ****original audio****
 
-[astounding_stories06_09_cummings_0058.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/astounding_stories06_09_cummings_0058.wav)
+[astounding_stories06_09_cummings_0058.wav](samples/astounding_stories06_09_cummings_0058.wav)
 
 Baseline 1
 
-[6670_astounding_stories06_09_cummings_0058.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6670_astounding_stories06_09_cummings_0058%204.wav)
+[6670_astounding_stories06_09_cummings_0058.wav](samples/6670_astounding_stories06_09_cummings_0058%204.wav)
 
 Baseline 2
 
-[6670_astounding_stories06_09_cummings_0058.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6670_astounding_stories06_09_cummings_0058%205.wav)
+[6670_astounding_stories06_09_cummings_0058.wav](samples/6670_astounding_stories06_09_cummings_0058%205.wav)
 
 Baseline 3
 
-[6670_astounding_stories06_09_cummings_0058.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6670_astounding_stories06_09_cummings_0058%206.wav)
+[6670_astounding_stories06_09_cummings_0058.wav](samples/6670_astounding_stories06_09_cummings_0058%206.wav)
 
 BEdit-TTS
 
-[6670_astounding_stories06_09_cummings_0058.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6670_astounding_stories06_09_cummings_0058%207.wav)
+[6670_astounding_stories06_09_cummings_0058.wav](samples/6670_astounding_stories06_09_cummings_0058%207.wav)
 
 ### Sample 4
 
@@ -246,23 +246,23 @@ BEdit-TTS
 
 ****original audio****
 
-[astralplane_01_leadbeater_0007.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/astralplane_01_leadbeater_0007.wav)
+[astralplane_01_leadbeater_0007.wav](samples/astralplane_01_leadbeater_0007.wav)
 
 Baseline 1
 
-[6671_insearchofmademoiselle_02_gibbs_0011.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6671_insearchofmademoiselle_02_gibbs_0011.wav)
+[6671_insearchofmademoiselle_02_gibbs_0011.wav](samples/6671_insearchofmademoiselle_02_gibbs_0011.wav)
 
 Baseline 2
 
-[6671_insearchofmademoiselle_02_gibbs_0011.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6671_insearchofmademoiselle_02_gibbs_0011%201.wav)
+[6671_insearchofmademoiselle_02_gibbs_0011.wav](samples/6671_insearchofmademoiselle_02_gibbs_0011%201.wav)
 
 Baseline 3
 
-[6671_insearchofmademoiselle_02_gibbs_0011.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6671_insearchofmademoiselle_02_gibbs_0011%202.wav)
+[6671_insearchofmademoiselle_02_gibbs_0011.wav](samples/6671_insearchofmademoiselle_02_gibbs_0011%202.wav)
 
 BEdit-TTS
 
-[6671_insearchofmademoiselle_02_gibbs_0011.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/6671_insearchofmademoiselle_02_gibbs_0011%203.wav)
+[6671_insearchofmademoiselle_02_gibbs_0011.wav](samples/6671_insearchofmademoiselle_02_gibbs_0011%203.wav)
 
 ### Sample 5
 
@@ -274,20 +274,20 @@ BEdit-TTS
 
 ****original audio****
 
-[astralplane_01_leadbeater_0007.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/astralplane_01_leadbeater_0007.wav)
+[astralplane_01_leadbeater_0007.wav](samples/astralplane_01_leadbeater_0007.wav)
 
 Baseline 1
 
-[11697_actressinhighlife_01_bowen_0027.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/11697_actressinhighlife_01_bowen_0027.wav)
+[11697_actressinhighlife_01_bowen_0027.wav](samples/11697_actressinhighlife_01_bowen_0027.wav)
 
 Baseline 2
 
-[11697_actressinhighlife_01_bowen_0027.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/11697_actressinhighlife_01_bowen_0027%201.wav)
+[11697_actressinhighlife_01_bowen_0027.wav](samples/11697_actressinhighlife_01_bowen_0027%201.wav)
 
 Baseline 3
 
-[11697_actressinhighlife_01_bowen_0027.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/11697_actressinhighlife_01_bowen_0027%202.wav)
+[11697_actressinhighlife_01_bowen_0027.wav](samples/11697_actressinhighlife_01_bowen_0027%202.wav)
 
 BEdit-TTS
 
-[11697_actressinhighlife_01_bowen_0027.wav](Samples%20cb3bd2bcb97c42f0bb11c420d72d0ecb/11697_actressinhighlife_01_bowen_0027%203.wav)
+[11697_actressinhighlife_01_bowen_0027.wav](samples/11697_actressinhighlife_01_bowen_0027%203.wav)
