@@ -15,5 +15,33 @@ The kaldi-style data (text, utt2spk, spk2utt, wav.scp) has been provided in data
 To obtain duration information, you can use the [kaldi tool](https://kaldi-asr.org/) to train the GMM-HMM model to achieve forced alignment.
 Dictionary and all texts of HiFiTTS can be downloaded from [drive.google](https://drive.google.com/file/d/1IwK60nhXQw3fac3r3qIkpRHpk14b1YHP/view?usp=sharing).
 
+To extract feature:
+```bash
+bash run.sh --stage 1 --stop_stage 1
+```
+To apply CMVN:
+```bash
+bash run.sh --stage 1 --stop_stage 1
+```
+To prepar dictionary and json data:
+```bash
+bash run.sh --stage 1 --stop_stage 1
+```
+To update json data:
+```bash
+bash run.sh --stage 1 --stop_stage 1
+```
+
+## Run
+To train the model:
+```bash
+bash run.sh --stage 4 --stop_stage 4
+```
+To generate spectrum:
+```bash
+bash run.sh --stage 5 --stop_stage 5
+```
+The waveform can be synthesized by a pre-trained HiFiGAN.
+
 
 
