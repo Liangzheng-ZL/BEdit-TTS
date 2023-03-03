@@ -1,7 +1,5 @@
 # BEDIT-TTS: TEXT-BASED SPEECH EDITING SYSTEM WITH BIDIRECTIONAL TRANSFORMERS
 
-### **Zheng Liang, Chenpeng Du, Kai Yu, Xie Chen**
-
 In our paper, we proposed BEdit-TTS: Text-Based Speech Editing System with Bidirectional Transformers. We provide our [speech samples](https://speckled-sawfish-203.notion.site/Samples-cb3bd2bcb97c42f0bb11c420d72d0ecb) and code as open source in this repository.
 
 ## Set up
