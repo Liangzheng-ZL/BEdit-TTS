@@ -1,15 +1,6 @@
 MAIN_ROOT=$PWD/../../..
 KALDI_ROOT=$MAIN_ROOT/tools/kaldi
 
-
-#kaldi
-#KALDI_ROOT=/mnt/lustre/sjtu/home/cpd30/tools/kaldi
-#[ -f $KALDI_ROOT/tools/env.sh  ] && . $KALDI_ROOT/tools/env.sh
-#PATH=$PWD/utils/:$KALDI_ROOT/tools/openfst/bin:$PWD:$PATH
-#[ ! -f $KALDI_ROOT/tools/config/common_path.sh  ] && echo >&2 "The standard file $KALDI_ROOT/tools/config/common_path.sh is not present ->     Exit!" && exit 1
-#. $KALDI_ROOT/tools/config/common_path.sh
-#export PATH=$PATH:/mnt/lustre/sjtu/home/cpd30/tools/kaldi/tools/kaldi_lm 
-
 # alias
 export PATH=$PWD/utils/:$KALDI_ROOT/tools/openfst/bin:$PATH
 [ ! -f $KALDI_ROOT/tools/config/common_path.sh ] && echo >&2 "The standard file $KALDI_ROOT/tools/config/common_path.sh is not present -> Exit!" && exit 1
