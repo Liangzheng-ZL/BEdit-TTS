@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
-# By LiangZheng
-
 """BERT Moudle definition."""
 
 import torch
