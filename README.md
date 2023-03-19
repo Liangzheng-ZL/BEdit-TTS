@@ -1,6 +1,7 @@
 # BEDIT-TTS: TEXT-BASED SPEECH EDITING SYSTEM WITH BIDIRECTIONAL TRANSFORMERS
 
-In our paper, we proposed BEdit-TTS: Text-Based Speech Editing System with Bidirectional Transformers. We provide our [speech samples](https://anonymous.4open.science/w/bedit-web-7468/index.html) and code as open source in this repository.
+In our paper, we proposed BEdit-TTS: Text-Based Speech Editing System with Bidirectional Transformers. 
+We provide our code as open source in this repository.
 
 The model code is at ```espnet/nets/pytorch_backend/e2e_tts_bedit.py```
 
