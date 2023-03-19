@@ -36,19 +36,19 @@ set -o pipefail
 
 dumpdir=hifitts_kaldi
 dict=lexicon.txt
-train_set=test
+data_set=test
 
 if [ ${stage} -le 0 ] && [ ${stop_stage} -ge 0 ]; then
     echo "stage 0: Data preparation"
     ali_dir=kaldi/egs/hifitts/s5_16k/exp
-    local/phn_data_prep.sh ${ali_dir}/tri5a_ali ${dumpdir}/${train_set}
+    local/phn_data_prep.sh ${ali_dir}/tri5a_ali ${dumpdir}/${data_set}
 fi
 
 
 if [ ${stage} -le 1 ] && [ ${stop_stage} -ge 1 ]; then
     echo "stage 1: Ali-information to json"
 
-    for x in ${train_set}; 
+    for x in ${data_set}; 
     do
         sort ${dumpdir}/${x}/phn_text -o ${dumpdir}/${x}/phn_text
         sort ${dumpdir}/${x}/phn_duration -o ${dumpdir}/${x}/phn_duration
@@ -62,18 +62,37 @@ if [ ${stage} -le 1 ] && [ ${stop_stage} -ge 1 ]; then
 
 fi
 
+# For training data
 if [ ${stage} -le 2 ] && [ ${stop_stage} -ge 2 ]; then
-    echo "stage 2: Mask words in json data"
-    python ${dumpdir}/scripts/random_word_mask.py \
-            --json=${x}.json \
-            --output=${x}_position.json    
+    echo "For training"
+    echo "stage 2: words position"
+    for x in ${data_set};
+    do
+        python ${dumpdir}/scripts/words_position.py \
+                --json ${dumpdir}/${x}/${x}.json \
+                --phone_output ${dumpdir}/${x}/phone_positions.json \
+                --frame_output ${dumpdir}/${x}/frame_positions.json
+    done 
+fi
+
+# For decoding data
+if [ ${stage} -le 3 ] && [ ${stop_stage} -ge 3 ]; then
+    echo "stage 3: Mask words in json data"
+    for x in ${data_set};
+    do
+        python ${dumpdir}/scripts/random_word_mask.py \
+                --json ${dumpdir}/${x}/${x}.json \
+                --output ${dumpdir}/${x}/position.json   
+    done 
 fi
 
 if [ ${stage} -le 3 ] && [ ${stop_stage} -ge 3 ]; then
-    ### Task dependent. You have to check non-linguistic symbols used in the corpus.\
-    echo "stage 3: Json to Espnet addable json"
-    python ${dumpdir}/scripts/json2add_json.py \
-        --json=${x}_position.json \
-        --output=${x}_add_position.json \
-        --phn_output=${x}_add_phn_position.json
+    echo "stage 4: Json to Espnet addable json"
+    for x in ${data_set};
+    do
+        python ${dumpdir}/scripts/json2add_json.py \
+            --json ${dumpdir}/${x}/position.json \
+            --frame_positions_out ${dumpdir}/${x}/frame_positions.json \
+            --phone_positions_out ${dumpdir}/${x}/phone_positions.json
+    done
 fi

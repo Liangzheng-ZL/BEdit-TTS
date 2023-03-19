@@ -16,7 +16,8 @@ To obtain duration information, you can use the [kaldi tool](https://kaldi-asr.o
 To prepare the data of BEdit-TTS:
 ```bash
 bash run.sh --stage 0 --stop_stage 0
-bash pre_bedit_data.sh
+bash pre_bedit_data.sh --stage 1 --stop_stage 2 # for training data
+# bash pre_bedit_data.sh --stage 1 --stop_stage 4 # for decoding data
 ```
 To apply CMVN:
 ```bash
