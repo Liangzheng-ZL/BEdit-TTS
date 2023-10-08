@@ -2,6 +2,7 @@
 
 In our paper, we proposed BEdit-TTS: Text-Based Speech Editing System with Bidirectional Transformers. 
 We provide our code as open source in this repository.
+Samples are also available at [https://liangzheng-zl.github.io/bedit-web](https://liangzheng-zl.github.io/bedit-web/)
 
 The model code is at ```espnet/nets/pytorch_backend/e2e_tts_bedit.py```
 
